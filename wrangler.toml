@@ -1,0 +1,6 @@
+
+name = "check"
+main = "_worker.js"
+
+compatibility_date = "2025-10-1"
+workers_dev = true
